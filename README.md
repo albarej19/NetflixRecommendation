@@ -14,10 +14,3 @@ Make sure to update this list whenever new packages are added to the project.
 2. Install dependencies using `npm install` or `yarn install`.
 3. Follow the project-specific instructions for running or building the project.
 
-## Contributing
-
-Feel free to contribute by submitting issues or pull requests.
-
-## License
-
-[Specify the license here, e.g., MIT, Apache 2.0, etc.]
