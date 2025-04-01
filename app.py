@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import gdown
-url = "https://drive.google.com/file/d/1Uy1LAA8qidgyZBod8ve30qbx5zmUqfoQ/view?usp=drive_link"
-output = "movies.csv"
-gdown.download(url, output, quiet=False)
 
 # ✅ Load Merged Dataset
 df = pd.read_csv("movies.csv")
