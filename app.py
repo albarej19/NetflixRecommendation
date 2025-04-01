@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # ✅ Load Merged Dataset
-df = pd.read_csv(r"C:\Users\debay\TRIAL\movies.csv")
+df = pd.read_csv("movies.csv")
 
 # Ensure Premiere is numeric
 df["Premiere"] = pd.to_numeric(df["Premiere"], errors='coerce')
