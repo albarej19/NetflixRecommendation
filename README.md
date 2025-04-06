@@ -2,9 +2,9 @@
 
 This project contains the following packages:
 
-- **Package 1**: [Package Name] - Brief description of its purpose.
-- **Package 2**: [Package Name] - Brief description of its purpose.
-- **Package 3**: [Package Name] - Brief description of its purpose.
+- **Streamlit**: A framework for building interactive web applications in Python.
+- **Matplotlib**: A library for creating static, animated, and interactive visualizations in Python.
+- **Pandas**: A data manipulation and analysis library for Python.
 
 Make sure to update this list whenever new packages are added to the project.
 
